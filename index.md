@@ -2,7 +2,9 @@
 
 I'm Sitryk, a nerd, nothing else to say here so lets get to the cog explanations.
 
-# Cogs <sup><supb><sup>[Here](github.com/Sitryk/sitcogsv3)</sup></sup></sup>
+# Cogs <sup><sup><sup>[Here](github.com/Sitryk/sitcogsv3)</sup></sup></sup>
+<br>
+<br>
 
 ### Lyrics
 
@@ -13,7 +15,7 @@ The lyrics cog lets you search the [Genius](genius) API for songs, you can input
 
 Using the **genius** command also allows you to flip through pages showing you the album art, page views and some other information, using reactions you can also queue the song in the audio cog if you have it loaded and you can request the lyrics
 
-##### Planned Features
+#### Planned Features
 
 AutoLyrics integrated with the audio cog to send lyrics to a set channel every time the song changes
 <br>
@@ -22,6 +24,8 @@ AutoLyrics integrated with the audio cog to send lyrics to a set channel every t
 ### VoiceKick
 
 The Discord UI doesn't let you kick members from voice channels, maybe someone fell asleep in a voice channel and you can hear them snoring, (has happened to me before.)
+<br>
+<br>
 
 ### Utilities
 
