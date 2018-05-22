@@ -1,7 +1,3 @@
-<html>
-    <title>Sit Cogs V3</title>
-</html>
-
 # Me
 
 I'm Sitryk, a nerd, nothing else to say here so lets get to the cog explanations.
