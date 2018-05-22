@@ -2,7 +2,7 @@
 
 I'm Sitryk, a nerd, nothing else to say here so lets get to the cog explanations.
 
-# Cogs <sup><sub><sup><sub>[Here](github.com/Sitryk/sitcogsv3)</sub></sup></sub></sup>
+# Cogs <sup><sub><sup><sub>[Here](github.com/Sitryk/sitcogsv3)</sup></sub></sup></sub>
 
 ### Lyrics
 
@@ -32,7 +32,7 @@ Things I often find myself using for different tasks
 **Commands**
     
  - source
-  This lets you get the source for any python objects, originally from **[irdumbs](irdumbs)** REPL cog for v2 of **[Red Discord-Bot](red)**
+ This lets you get the source for any python objects, originally from **[irdumbs](irdumbs)** REPL cog for v2 of **[Red Discord-Bot](red)**
 
 
 [genius]: https://genius.com
