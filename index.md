@@ -1,10 +1,12 @@
+<html>
+    <title>Sit Cogs V3</title>
+</html>
+
 # Me
 
 I'm Sitryk, a nerd, nothing else to say here so lets get to the cog explanations.
 
-# Cogs <sup><sup><sup>[Here](github.com/Sitryk/sitcogsv3)</sup></sup></sup>
-<br>
-<br>
+# Cogs <sup><sub><sup><sub>[Here](github.com/Sitryk/sitcogsv3)</sub></sup></sub></sup>
 
 ### Lyrics
 
